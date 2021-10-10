@@ -1,5 +1,3 @@
-![Last commit](https://img.shields.io/github/last-commit/DariusJA/islands)
-
 # Island Hopping - Kattis
 
 ## [The Problem](https://open.kattis.com/problems/islandhopping)
@@ -46,6 +44,6 @@ For each test case, output the total length of bridges needed to connect all the
 
 ## Collaborators
 
-[Darius](https://github.com/DariusJA)
-
 [Mikey Lau](https://github.com/MikeyJL)
+
+[Darius](https://github.com/DariusJA)
